@@ -251,6 +251,11 @@ body{
     text-align: center;
     margin-top: 24px;
 }
+
+.logo img{
+    max-width: 83vw;
+}
+
 .video{
     margin: 10px 13px;
 }
