@@ -38,6 +38,9 @@ body{
         width: 90vw;
         aspect-ratio: 16 / 9;
     }
+    .video.tablo{
+        aspect-ratio: none;
+    }
 
 }
 
@@ -204,10 +207,13 @@ body{
 
 
 
-.video iframe{
+.video iframe, .tablo img{
     height: 100%;
     width: 100%;
 }
+
+.tablo 
+
 
 
 .logo{
