@@ -233,9 +233,7 @@ body{
 }
 
 
-.tablo{
-    
-}
+
 
 
 
@@ -255,6 +253,6 @@ body{
 
 
 
-.row.videos-page>*{
+.row.videos-page>{
     padding: 0;
 }
