@@ -256,3 +256,18 @@ body{
 .row.videos-page>{
     padding: 0;
 }
+
+.osztaly{
+    margin: 20px auto;
+    width: 400px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 200%;
+    
+}
+.osztaly image{
+    height: 30px;
+    width: 40px;
+}
