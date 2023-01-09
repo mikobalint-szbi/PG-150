@@ -161,13 +161,19 @@ body{
 .tableaus .col{
     margin: 0 auto;
 }
+.intro-outer{
+    margin-left: 30px;
+    margin-right: 30px;
+}
 
 .intro{
     font-size: large;
+    margin: 0 auto;
 }
 
 .intro h3{
     text-align: right;
+    font-family: "Cedarville Cursive";
 }
 
 
