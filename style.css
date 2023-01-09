@@ -162,9 +162,10 @@ body{
     margin: 0 auto;
 }
 
+.intro{
+    font-size: large;
+}
 
-
-
-
-
-
+.intro h3{
+    text-align: right;
+}
