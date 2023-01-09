@@ -242,9 +242,7 @@ body{
 }
 
 
-.tablo{
-    
-}
+
 
 
 
@@ -264,7 +262,7 @@ body{
 
 
 
-.row.videos-page>*{
+.row.videos-page>{
     padding: 0;
 }
 
@@ -280,4 +278,18 @@ body{
 .memories{
     margin-top: 40px !important;
     margin-bottom: 50px !important;
+}
+.osztaly{
+    margin: 20px auto;
+    width: 400px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 200%;
+    
+}
+.osztaly image{
+    height: 30px;
+    width: 40px;
 }
