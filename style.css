@@ -241,9 +241,6 @@ body{
 }
 
 
-.tablo{
-    
-}
 
 .logo{
     text-align: center;
@@ -292,5 +289,43 @@ body{
     color: white;
     text-align: center;
     line-height: 200%;
+
+    border-radius: 6px;
     
+}
+
+
+.osztalyok{
+    margin: 30px auto;
+
+}
+
+
+.osztalyok a{
+    text-decoration: none;
+    width: fit-content;
+}
+
+
+.class{
+    border: 2px black solid;
+    background-image: url("osztaly.webp");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    aspect-ratio: 16 / 10;
+}
+
+.class h3{
+    margin-top: auto;
+    text-align: center;
+    text-shadow: 5px 5px 5px #FFF, 5px 5px 10px #FFF, 5px 5px 15px #FFF, 5px 5px 20px #FFF, 5px 5px 30px #FFF, 5px 5px 40px #FFF, 5px 5px 55px #FFF, 5px 5px 75px #FFF,
+    -5px -5px 5px #FFF, -5px -5px 10px #FFF, -5px -5px 15px #FFF, -5px -5px 20px #FFF, -5px -5px 30px #FFF, -5px -5px 40px #FFF, -5px -5px 55px #FFF, -5px -5px 75px #FFF;
+    
+}
+
+.osztaly-cim{
+
+    display: flex;
 }
