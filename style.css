@@ -43,6 +43,10 @@ body{
         width: 90vw ;
     }
 
+    .intro-outer{
+        width: 85%;
+    }
+
 }
 
 
@@ -57,6 +61,7 @@ body{
     .video, .tablo{
         width: 80vw ;
     }
+
 
 }
 
@@ -97,6 +102,10 @@ body{
     .tablo{
         width: 560px;
     }
+    .intro-outer{
+        width: 80%;
+    }
+
 }
 
 @media (min-width: 1200px) {
@@ -257,4 +266,18 @@ body{
 
 .row.videos-page>*{
     padding: 0;
+}
+
+
+.intro-outer{
+    margin: 10px auto;
+}
+
+.intro p{
+    text-align: justify;
+}
+
+.memories{
+    margin-top: 40px !important;
+    margin-bottom: 50px !important;
 }
